@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">快乐数独</string>
+    <string name="sudoku">快乐数独</string>
+    <string name="norwegian_description">A picture of a norwegian flag</string>
+    <string name="british_description">A picture of a british flag</string>
+
+    <string name="new_game">开始新的游戏</string>
+    <string name="add_new_board">新建属于你的数独</string>
+    <string name="continue_new_board">继续</string>
+    <string name="successful_new_board">新的数独棋盘已建立</string>
+    <string name="fail_new_board">新的数独棋盘不能建立</string>
+    <string name="show_instructions">关于游戏</string>
+    <string name="choose_language">选择语言：</string>
+
+    <string name="ranking_list">排行榜</string>
+
+    <string name="instructions">提示</string>
+    <string name="instructions_1">1. 在快乐数独中，你可以把九宫格中的空格填满。数字从1到9不等(在9x9格中)</string>
+    <string name="instructions_2">2. 棋盘被分成几个正方形，每个方格内只允许放置每个方块中的一个</string>
+    <string name="instructions_3">3. 它只允许将每个数字中的一个放置在每一行，无论是水平的还是垂直的</string>
+    <string name="go_back_button">返回</string>
+
+    <string name="choose_difficulty">请选择难度:</string>
+    <string name="difficulty_easy">易</string>
+    <string name="difficulty_normal">中</string>
+    <string name="difficulty_hard">难</string>
+    <string name="start_game">开始游戏</string>
+    <string name="choose_number">选择数字</string>
+    <string name="choose_a_number">请选择数字:</string>
+    <string name="place_number">Place number</string>
+    <string name="piece_unsure">标注为不确定</string>
+    <string name="remove_piece">移除</string>
+    <string name="start_piece_error">不能更改初始棋盘</string>
+    <string name="check_board">检验棋盘</string>
+    <string name="board_correct">恭喜你完成这一关！</string>
+    <string name="board_incorrect">很遗憾，你没有完成！</string>
+    <string name="title_activity_rank_list">1</string>
+    <string name="first_fragment_label">2</string>
+    <string name="second_fragment_label">3</string>
+    <string name="next">4</string>
+    <string name="previous">5</string>
+    <string name="hello_first_fragment">6</string>
+    <string name="hello_second_fragment">7</string>
+    <string name="Player_ID">玩家ID</string>
+    <string name="Name">名称</string>
+    <string name="Time">耗时</string>
+    <string name="Difficulty">难度</string>
+    <string name="Delete">清空</string>
+</resources>
